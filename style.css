@@ -3,7 +3,7 @@ h1{
     font-size: 48px;
     color: plum;
     background-color: rgba(24, 24, 103, 0.831);
-    margin: 5px;
+    margin: 25px;
     text-align: center;
     padding: 20px;
     border: 10px solid plum;
@@ -24,7 +24,6 @@ p{
     border: 5px solid
     plum;
     margin: 24px;
-    display: block;
     text-align: center;
     font-size: 16px;
 }
@@ -36,7 +35,6 @@ flex-container{
     justify-content: center;
 }
 .projects{
-    width: 800px;
     padding: 50px;
     margin: 50px;
     border: 10px solid rgba(24, 24, 103, 0.831);
